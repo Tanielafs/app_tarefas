@@ -13,9 +13,13 @@ Interface seguindo Material Design
 
  Arquitetura do Projeto
 lib/
+<br>
 ├── main.dart              # Arquivo principal e configuração de rotas
+<br>
 ├── login_screen.dart      # Tela de autenticação
+<br>
 ├── calendar_screen.dart   # Tela do calendário interativo
+<br>
 └── task_model.dart        # Modelo de dados das tarefas
 
  Tecnologias Utilizadas
